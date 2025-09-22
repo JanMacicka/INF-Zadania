@@ -1,5 +1,6 @@
 day = int(input("zadajte den narodenia: "))
 month = int(input("zadajte mesiac narodenia: "))
+year = int(input("zadajte rok narodenia: "))
 
 match month:
     case 1:
@@ -62,3 +63,28 @@ match month:
             print("strelec")
         else:
             print("kozorozec")
+
+if year % 12 == 0:
+    print("cinsky horoskop: potkan")
+elif year % 12 == 1:
+    print("cinsky horoskop: byvol")
+elif year % 12 == 2:
+    print("cinsky horoskop: tiger")
+elif year % 12 == 3:
+    print("cinsky horoskop: zajac")
+elif year % 12 == 4:
+    print("cinsky horoskop: drak")
+elif year % 12 == 5:
+    print("cinsky horoskop: had")
+elif year % 12 == 6:
+    print("cinsky horoskop: kon")
+elif year % 12 == 7:
+    print("cinsky horoskop: ovca")
+elif year % 12 == 8:
+    print("cinsky horoskop: opica")
+elif year % 12 == 9:
+    print("cinsky horoskop: kohut")
+elif year % 12 == 10:
+    print("cinsky horoskop: pes")
+elif year % 12 == 11:
+    print("cinsky horoskop: kanec")
