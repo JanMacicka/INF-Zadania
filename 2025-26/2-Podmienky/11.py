@@ -2,6 +2,10 @@ a = int(input("cislo 1: "))
 b = int(input("cislo 2: "))
 c = int(input("cislo 3: "))
 
+if a <= 0 or b <= 0 or c <= 0:
+    print("trojuholnik neexistuje")
+    exit()
+
 if a > b:
     a, b = b, a
 
@@ -22,4 +26,5 @@ elif a == b or a == c or b == c:
 elif c ** 2 == (a **2 + b ** 2):
     print("pravouhly")
 else:
+
     print("roznostranny")
