@@ -4,7 +4,7 @@ if num < 2 or num > 9:
     print("ste kokot")
     exit()
 
-for i in range(1, 100):
+for i in range(1, 101):
     num_string = str(i)
     sum = 0
 
