@@ -9,3 +9,6 @@ while num < 1000:
 
     if num_sum == 12:
         print(num)
+
+    num += 1
+    continue
