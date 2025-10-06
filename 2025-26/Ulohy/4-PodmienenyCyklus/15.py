@@ -14,4 +14,4 @@ num = int(input("zadajte cislo: "))
 while not is_palindrome(num):
     num += 1
 
-print(f"najbizsi palindrom: {num}")
+print(f"najblizsi vacsi palindrom: {num}")
