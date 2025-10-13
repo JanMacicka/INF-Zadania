@@ -1,0 +1,1 @@
+print([x for x in range(5, 3 * 10 + 3, 3)])
