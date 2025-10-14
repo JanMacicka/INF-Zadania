@@ -1,1 +1,1 @@
-print([x for x in range(5, 3 * 10 + 3, 3)])
+print([x for x in range(2, 3 * 10, 3)])
