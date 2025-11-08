@@ -1,4 +1,4 @@
-def binary_search(array: list[str], low: int, high: int, x: int) -> int:
+def binary_search(array: list[str], low: int, high: int, x: str) -> int:
     if high >= low:
         mid = (low + high) // 2
 
