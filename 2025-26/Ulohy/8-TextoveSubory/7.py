@@ -13,9 +13,7 @@ class Book:
 
     
 def print_books(books: list[Book]) -> None:
-    for book in books:
-        print(book)
-
+    print("\n".join(str(book) for book in books))
     print(f"pocet najdenych zaznamov: {len(books)}")
     input("stlacte enter pre pokracovanie.")
 
