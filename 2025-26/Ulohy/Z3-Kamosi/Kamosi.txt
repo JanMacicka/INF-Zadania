@@ -1,0 +1,12 @@
+Beata;48596 28 6
+Albert;23658 8 4
+Margareta;85963 9 6
+Severin;58269 8 1
+Vlasta;36215 19 2
+Blazena;41253 11 5
+Stanislava;15263 10 6
+Moric;25636 22 9
+Ivan;52369 10 10
+Klara;25263 29 10
+Samuel;96874 26 8
+Ivica;8523 15 12

@@ -10,7 +10,7 @@ class Film:
 
 
 def sort(films: list[Film]) -> list[Film]:
-    return sorted(films, key=lambda x: x.total_visits)[::-1]
+    return sorted(films, key=lambda f: f.total_visits)[::-1]
 
 def print_best_films(films: list[Film], n=5) -> None:
     print(f"\nNAJLEPSIE FILMY ({n}):")
