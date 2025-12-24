@@ -1,0 +1,58 @@
+J.K. Rowling;Harry Potter a Kameň mudrcov;Slovenský spisovateľ;1997;14.99
+J.K. Rowling;Harry Potter a Tajomná komnata;Slovenský spisovateľ;1998;15.49
+George Orwell;1984;Odeon;1949;12.99
+George Orwell;Zvieracia farma;Odeon;1945;11.49
+J.R.R. Tolkien;Pán prsteňov: Spoločenstvo prsteňa;Ikar;1954;19.99
+J.R.R. Tolkien;Pán prsteňov: Dve veže;Ikar;1954;20.49
+Leo Tolstoy;Vojna a mier;Slovenský spisovateľ;1869;22.00
+Leo Tolstoy;Anna Karenina;Slovenský spisovateľ;1877;20.99
+Harper Lee;To Kill a Mockingbird;Albatros;1960;13.50
+Harper Lee;Prečo zabíjať vtáčika;Albatros;1960;13.99
+F. Scott Fitzgerald;Veľký Gatsby;Panta Rhei;1925;11.00
+F. Scott Fitzgerald;Nebo, peklo, zem;Panta Rhei;1927;10.99
+Mark Twain;Dobrodružstvá Huckleberryho Finna;Trefl;1884;9.99
+Mark Twain;Dobrodružstvá Toma Sawyera;Trefl;1876;8.99
+Agatha Christie;Vražda v Orient Expresse;SLOVART;1934;14.49
+Agatha Christie;Desať malých černochov;SLOVART;1939;13.99
+Stephen King;To;Ikariá;1986;18.99
+Stephen King;Carrie;Ikariá;1974;15.99
+Franz Kafka;Prestavba;Verlag;1912;7.50
+Franz Kafka;Proces;Verlag;1925;8.49
+J.D. Salinger;Kto chytá v žite;Panta Rhei;1951;12.99
+J.D. Salinger;Zajac v zrkadle;Panta Rhei;1960;13.99
+Ernest Hemingway;Starec a more;SLOVART;1952;14.99
+Ernest Hemingway;Komu zvonia do hrobu;SLOVART;1940;16.00
+J.R.R. Tolkien;Hobit;Ikar;1937;13.00
+J.R.R. Tolkien;Silmarillion;Ikar;1977;18.49
+Isaac Asimov;Ja, robot;Slovenský spisovateľ;1950;16.00
+Isaac Asimov;Nadácia;Slovenský spisovateľ;1951;17.99
+Arthur C. Clarke;2001: Vesmírna odysea;Kreatívna komunita;1968;19.49
+Arthur C. Clarke;Záhada hviezdnej brány;Kreatívna komunita;1973;18.00
+J.K. Rowling;Harry Potter a väzeň z Azkabanu;Slovenský spisovateľ;1999;16.49
+J.K. Rowling;Harry Potter a Oheň;Slovenský spisovateľ;2000;17.99
+Dante Alighieri;Božská komédia;Vydavateľstvoópa;1320;20.00
+Dante Alighieri;Božská komédia - Peklo;Vydavateľstvoópa;1320;21.00
+John Steinbeck;O myšiach a ľuďoch;Kreatívna komunita;1937;9.99
+John Steinbeck;Hrozny hnevu;Kreatívna komunita;1939;10.99
+Ray Bradbury;451 stupňov Fahrenheita;Trefl;1953;14.49
+Ray Bradbury;Zdenky a zvyšky;Trefl;1950;13.99
+Kurt Vonnegut;Sloboda;Slovenský spisovateľ;1969;15.00
+Kurt Vonnegut;Ruky pri krku;Slovenský spisovateľ;1967;14.49
+Neil Gaiman;Americkí bohovia;SLOVART;2001;19.99
+Neil Gaiman;Koralína;SLOVART;2002;13.50
+Margaret Atwood;Príbeh služobníčky;Ikar;1985;16.00
+Margaret Atwood;Oryx a Crake;Ikar;2003;18.50
+Khaled Hosseini;Tisíc žiarivých slnk;Slovenský spisovateľ;2007;13.00
+Khaled Hosseini;A hory odpovedajú;Slovenský spisovateľ;2013;15.99
+Zadie Smith;Biely zuby;Panta Rhei;2000;18.99
+Zadie Smith;On Beauty;Panta Rhei;2005;17.49
+Sally Rooney;Normálne ľudia;Albatros;2018;12.99
+Sally Rooney;Rozišli sa;Albatros;2021;13.49
+Toni Morrison;Milovaná;Panta Rhei;1987;14.99
+Toni Morrison;Jazdci;Panta Rhei;1998;13.99
+C.S. Lewis;Chroniky Narnie: Lev, čarodejnica a skriňa;Ikar;1950;12.00
+C.S. Lewis;Chroniky Narnie: Poľovník;Ikar;1953;13.50
+Douglas Adams;Stopárov sprievodca po galaxii;Slovenský spisovateľ;1979;15.99
+Douglas Adams;Restaurácia na konci vesmíru;Slovenský spisovateľ;1980;14.49
+Raymond Chandler;Veľký spánok;SLOVART;1939;12.50
+Raymond Chandler;Dlhá zima;SLOVART;1944;12.99
