@@ -12,11 +12,14 @@ class Ball:
     
     
     def __get_1_meter_hops(self) -> int:
+        if self.hops[0][1] <= 1:
+            return 0
+
         for hop in self.hops:
             if hop[1] <= 1:
                 return hop[0] - 1
             
-        return 0
+        return len(self.hops)
     
 
     def __init__(self, height: float, coefficient: float) -> None:
