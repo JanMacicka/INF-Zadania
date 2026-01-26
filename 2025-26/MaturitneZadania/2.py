@@ -1,16 +1,16 @@
 import random
 
 
-def is_palindrome(num: int) -> bool:
-    return str(num) == str(num)[::-1]
+def is_palindrome(num: str) -> bool:
+    return num == num[::-1]
 
 
 amount = int(input("zadajte pocet cisel: "))
-numbers = [random.randint(0, 1001) for _ in range(amount)]
+numbers = [str(j) for j in [random.randint(0, 1001) for i in range(amount)]]
 
 for number in numbers:
     if is_palindrome(number):
-        print("\033[91m" + str(number) + "\033[0m")
+        print("\033[91m" + number + "\033[0m")
     else:
         print(number)
 
