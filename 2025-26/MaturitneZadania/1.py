@@ -29,16 +29,21 @@ class Ball:
         self.hops_1_meter = self.__get_1_meter_hops()
 
 
-balls = []
+def main() -> None:
+    balls = []
 
-with open("1-Lopticka.txt", "r") as f:
-    for row in f.readlines():
-        values = row.split()
+    with open("1-Lopticka.txt", "r") as f:
+        for row in f.readlines():
+            values = row.split()
 
-        balls.append(Ball(float(values[0]), float(values[1])))
+            balls.append(Ball(float(values[0]), float(values[1])))
 
-for ball in balls:
-    print(f"pocet vyskoceni nad 1 meter: {ball.hops_1_meter}")
+    for ball in balls:
+        print(f"pocet vyskoceni nad 1 meter: {ball.hops_1_meter}")
 
-    for hop in ball.hops:
-        print(f"{hop[0]}: {hop[1]} m") if hop[1] >= 1 else print(f"{hop[0]}: {round(hop[1] * 100)} cm")
+        for hop in ball.hops:
+            print(f"{hop[0]}: {hop[1]} m") if hop[1] >= 1 else print(f"{hop[0]}: {round(hop[1] * 100)} cm")
+
+
+if __name__ == "__main__":
+    main()
