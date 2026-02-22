@@ -8,7 +8,7 @@ def main() -> None:
         keys = [int(x) for x in rows[0].strip().split()][:-1]
         text = rows[1].strip()
 
-    print(f"kluce: {", ".join(str(x) for x in keys)}")
+    print(f"kluce: {', '.join(str(x) for x in keys)}")
     print(f"nezasifrovany text: {text}")
 
     for i, char in enumerate(text):
