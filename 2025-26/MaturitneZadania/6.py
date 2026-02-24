@@ -14,14 +14,7 @@ def main() -> None:
         if col == []:
             matrix.remove(col)
 
-    for i in range(random.randint(1, size)):
-        col_1 = random.randint(0, size - 1)
-        col_2 = random.randint(0, size - 1)
-
-        temp = matrix[col_1]
-        matrix[col_1] = matrix[col_2]
-        matrix[col_2] = temp
-
+    random.shuffle(matrix)
     print("zasifrovany text:")
 
     for i in range(size):
