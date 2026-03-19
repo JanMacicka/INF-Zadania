@@ -50,9 +50,9 @@ def main():
         print(f"{stop}: {current_passengers}")
 
     print(f"najvacsi pocet pasazierov: {max_passengers}, a preto treba typ elektricky {vehicle}")
-    print("zastavky, kde je vhodne umiestnit automat: ", end="")
+    print("zastavky, kde je vhodne umiestnit automat:", end="")
     print(", ".join([str(s) for s in needed_machines]))
-    print("zastavky na znamenie: ", end="")
+    print("zastavky na znamenie:", end="")
     print(", ".join([str(s) for s in request_stops]))
 
 
