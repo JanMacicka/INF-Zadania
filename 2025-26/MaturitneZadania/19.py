@@ -19,7 +19,6 @@ X_MARGIN = 10
 Y_MARGIN = 100
 STOP_RADIUS = 3
 
-
 root = tk.Tk()
 canvas = tk.Canvas(root, width=WINDOW_WIDTH, height=WINDOW_HEIGHT)
 
