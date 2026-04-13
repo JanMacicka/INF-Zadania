@@ -24,9 +24,9 @@ def generate_view(matrix=matrix) -> None:
             y1 = i * PIXEL_MULTIPLIER
             x2 = x1 + PIXEL_MULTIPLIER
             y2 = y1 + PIXEL_MULTIPLIER
-            color = "black" if col == "1" else "white"
 
-            canvas.create_rectangle(x1, y1, x2, y2, fill=color, outline="")
+            if col == "1":
+                canvas.create_rectangle(x1, y1, x2, y2, fill="black", outline="")
 
     button = tk.Button(root, text="Preklopit", command=swap)
 
@@ -51,7 +51,7 @@ with open("26-PreklopenieObrazka.txt", "r") as f:
             matrix[-1].append(char)
 
             if char == "1":
-                count_1+= 1
+                count_1 += 1
 
 print(f"pocet pixelov: {dimensions[0] * dimensions[1]}")
 print(f"pocet jednotiek: {count_1}")
