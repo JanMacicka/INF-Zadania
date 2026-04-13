@@ -1,7 +1,7 @@
 def main() -> None:
     groups = [" ", "ABC", "DEF", "GHI", "JKL", "MNO", "PQR", "STU", "VWX", "YZ"]
     cipher_table = {}
-    used_fields = {str(x): 0 for x in range(9)}
+    used_fields = {str(x): 0 for x in range(10)}
 
     for i, group in enumerate(groups):
         for j, char in enumerate(group):
